@@ -3,7 +3,7 @@ import './index.css';
 
 const LINK_COLUMNS = [
   {
-    title: '国内物流1',
+    title: '国内物流',
     links: [{ label: '国内快递' }, { label: '国内货运' }, { label: '其他业务' }],
   },
   {
